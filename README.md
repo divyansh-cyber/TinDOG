@@ -79,3 +79,9 @@ $29/mo
 Pirority Listing
 Unlimited Matches & Messages
 Unlimited App Usage
+![Alt text](bizinsider.png)
+![Alt text](dog-img.jpg)
+![Alt text](iphone.png)
+![Alt text](mashable.png)
+![Alt text](tnw.png)
+![Alt text](techcrunch.png)
